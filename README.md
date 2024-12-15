@@ -1,2 +1,2 @@
 # NewGRABA
- GRABA homepage
+ GRABA homepage outline
